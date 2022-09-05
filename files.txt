@@ -1,0 +1,2 @@
+/home/avalon
+/etc/wireguard
